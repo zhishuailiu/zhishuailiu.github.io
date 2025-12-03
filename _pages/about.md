@@ -42,7 +42,7 @@ Hi! I am Zhishuai Liu, a forth-year PhD candidate in Biostatistics at Duke Unive
 
    <p><b>Zhishuai Liu</b>,  Pan Xu</p>
 
-   The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS).
+   The Thirty-Ninth Annual Conference on Neural Information Processing Systems.
 
 - [An Interactive Framework for Generating Clinical Data with Human Feedback](https://openreview.net/pdf?id=wi4BYFoEOz)
 
@@ -54,10 +54,13 @@ Hi! I am Zhishuai Liu, a forth-year PhD candidate in Biostatistics at Duke Unive
 
   <p>Yiting He<sup>*</sup>,  <b>Zhishuai Liu</b><sup>*</sup>, Weixin Wang, Pan Xu</p>
   
-  The 42nd International Conference on Machine Learning (ICML).
+  The 42nd International Conference on Machine Learning.
 
 - [Robust Oﬄine Reinforcement Learning with Linearly Structured f-Divergence Regularization](https://arxiv.org/pdf/2411.18612?)
+  
   <p>Cheng Tang<sup>*</sup>,  <b>Zhishuai Liu</b><sup>*</sup>, Pan Xu</p>
+
+  The 42nd International Conference on Machine Learning.
 
 - [Minimax Optimal and Computationally Eﬃcient Algorithms for Distributionally Robust Oﬄine Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2024/file/9dcc5038eb565e625c7ebdde0435d958-Paper-Conference.pdf)
 
@@ -65,8 +68,47 @@ Hi! I am Zhishuai Liu, a forth-year PhD candidate in Biostatistics at Duke Unive
    
   The 38th Annual Conference on Neural Information Processing Systems.
 
+- [Distributionally Robust Oﬀ-Dynamics Reinforcement Learning: Provable Eﬃciency with Linear Function Approximation.](https://proceedings.mlr.press/v238/liu24d/liu24d.pdf)
+
+  <p><b>Zhishuai Liu</b>,  Pan Xu</p>
+
+  The 28th International Conference on Artificial Intelligence and Statistics.
+
+
+  
+
 **Journal Publications**
 
+- [Censored C-Learning for Dynamic Treatment Regime in Colorectal Cancer Study](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-19/issue-2/Censored-C-learning-for-dynamic-treatment-regime-in-colorectal-cancer/10.1214/24-AOAS1984.short)
+
+  <p>Zishu Zhan, <b>Zhishuai Liu</b>, Cunjie Lin, Danhui Yi, Jian Liu, Yufei Yang</p>
+
+  The Annals of Applied Statistics, 19(2), pp.1426-1447.
+
+
+- [Penalized Regression Analysis with Individual-Specific Patterns of Missing Covariates](https://www.tandfonline.com/doi/abs/10.1080/03610918.2022.2098332)
+
+  <p><b>Zhishuai Liu</b>, Zishu Zhan and Cunjie Lin</p>
+
+  Communications in Statistics-Simulation and Computation 53 (7), 3126-3142.
+
+- [Deep Spatial Q-Learning for Infectious Disease Control](https://link.springer.com/article/10.1007/s13253-023-00551-4)
+
+  <p><b>Zhishuai Liu</b>, Jesse Clifton, Eric B Laber, John Drake, Ethan X Fang</p>
+
+  Journal of Agricultural, Biological and Environmental Statistics.
+
+- [Estimation in Optimal Treatment Regimes Based on Mean Residual Lifetimes with Right-Censored Data](https://onlinelibrary.wiley.com/doi/abs/10.1002/bimj.202200340)
+
+  <p><b>Zhishuai Liu</b>, Zishu Zhan, Cunjie Lin</p>
+
+  Biometrical Journal 65 (8).
+
+- [Wavelet Scattering Transform for ECG Beat Classification](https://onlinelibrary.wiley.com/doi/full/10.1155/2020/3215681)
+
+  <p><b>Zhishuai Liu</b>, Guihua Yao, Qing Zhang, Junpu Zhang and Xueying Zeng</p>
+
+  Computational and Mathematical Methods in Medicine, 2020(7), 1-11.
 
 **Workshop Publications**
 - [How to Provably Improve Return Conditioned Supervised Learning?](https://arxiv.org/pdf/2506.08463?)
@@ -77,15 +119,37 @@ Hi! I am Zhishuai Liu, a forth-year PhD candidate in Biostatistics at Duke Unive
 
 - [Near-Optimal Reinforcement Learning for Linear Distributionally Robust Markov Decision Processes](https://openreview.net/pdf?id=BibmlB0nQR)
 
-  <p>Zhishuai Liu<sup>*</sup>, <b>Weixin Wang<sup>*</sup></b>, Pan Xu</p>
+  <p><b>Zhishuai Liu</b><sup>*</sup>, <b>Weixin Wang<sup>*</sup></b>, Pan Xu</p>
 
   NeurIPS 2025 Workshop: Reliable ML from Unreliable Data.
 
-- [Return Augmented Decision Transformer for Oﬀ-Dynamics Reinforcement Learning]()
+- [Return Augmented Decision Transformer for Oﬀ-Dynamics Reinforcement Learning](https://arxiv.org/pdf/2410.23450?)
 
   <p>Ruhan Wang<sup>*</sup>, Yu Yang<sup>*</sup>, <b>Zhishuai Liu</b>, Dongruo Zhou, Pan Xu</p>
 
   NeurIPS 2025 Workshop: Reliable ML from Unreliable Data.
+
+**Preprint**
+- [Policy Regularized Distributionally Robust Markov Decision Processes with Linear Function Approximation](https://arxiv.org/pdf/2510.14246?)
+
+  <p>Jingwen Gu<sup>*</sup>, Yiting He<sup>*</sup>, <b>Zhishuai Liu</b><sup>*</sup>, Pan Xu</p>
+
+  arXiv preprint arXiv:2510.14246.
+
+- [Convergence of Sign-Based Random Reshuﬄing Algorithms for Nonconvex Optimization](https://arxiv.org/pdf/2310.15976)
+
+  <p>Zhen Qin<sup>*</sup>, <b>Zhishuai Liu</b><sup>*</sup>  Pan Xu</p>
+
+  arXiv preprint arXiv:2310.15976
+
+# 💬 Talks
+- *2025.11*: The 39th Annual Conference on Neural Information Processing Systems, Poster.
+- *2025.8*: 2025 Princeton Machine Learning Summer School, Poster.
+- *2025.7*:  The Forty-Second International Conference on Machine Learning, Poster.
+- *2024.12*: The 38th Annual Conference on Neural Information Processing Systems, Poster.
+- *2024.11*: Conference in Honor of Dr. Michael Kosorok, Poster.
+- *2024.2*: Duke OBGE PhD Recruitment Visit Poster Session, Poster.
+
 
 # 🎖 Honors and Awards
 - 2024 NeurIPS Top Reviewer 
@@ -94,10 +158,5 @@ Hi! I am Zhishuai Liu, a forth-year PhD candidate in Biostatistics at Duke Unive
 - 2019 Provincial Outstanding Graduation Thesis
 - 2018 Mathematical Contest In Modeling (MCM), Meritorious Winner
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
