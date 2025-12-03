@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-# 👤 About Me
+# About Me
 Hi! I am Zhishuai Liu, a forth-year PhD candidate in Biostatistics at Duke University, advised by Prof. [Pan Xu](https://panxulab.github.io/). My research focuses on Reinforcement Learning theory and applications, specifically on three topics: robust reinforcement learning, reinforcement learning via supervised learning and reinforcement learning for healthcare. My aim is to build computationlly efficient reinforcement learning algorithms with grounded theoretical guarantees. 
 
 
@@ -33,7 +33,7 @@ Hi! I am Zhishuai Liu, a forth-year PhD candidate in Biostatistics at Duke Unive
 - *2024.8*: Our paper *Minimax Optimal and Computationally Eﬃcient Algorithms for Distributionally Robust Oﬄine Reinforcement Learning* is accepted to NeurIPS 2024!
 - *2024.1*: Our paper *Distributionally robust off-dynamics reinforcement learning: Provable efficiency with linear function approximation* is accepted to AISTATS 2024!
 
-# 📝 Publications 
+# Publications 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div> -->
 <!-- <div class='paper-box-text' markdown="1"> -->
 **Conference Publications**
@@ -141,7 +141,7 @@ Hi! I am Zhishuai Liu, a forth-year PhD candidate in Biostatistics at Duke Unive
 
   arXiv preprint arXiv:2310.15976
 
-# 💬 Talks
+# Talks
 - *2025.11*: The 39th Annual Conference on Neural Information Processing Systems, Poster.
 - *2025.08*: 2025 Princeton Machine Learning Summer School, Poster.
 - *2025.07*:  The Forty-Second International Conference on Machine Learning, Poster.
@@ -150,12 +150,19 @@ Hi! I am Zhishuai Liu, a forth-year PhD candidate in Biostatistics at Duke Unive
 - *2024.02*: Duke OBGE PhD Recruitment Visit Poster Session, Poster.
 
 
-# Student Mentor
+# Student Mentoring
 - Cheng Tang: previous undergraduate student at Tsinghua University, now phd candidate at University of Illinois Urbana-Champaign. Our [work](https://arxiv.org/pdf/2411.18612?) received the Dean’s Award—the highest academic honor awarded by Zhili College at Tsinghua University.
 - Yiting He: Undergraduate student at University of Science and Technology of China (USTC). Our [work](https://openreview.net/pdf?id=pJdMOKqdSV) reveived the Outstanding Graduation Thesis awarded by USTC.
 
 
-# 🎖 Honors and Awards
+# Teaching Experience
+- **BIOSTAT 718**: Analysis of Correlated and Longitudinal Data, 2024 Spring, Duke University.
+- **BIOSTAT 825**: Foundation of Reinforcement Learning, 2023 Fall, Duke University.
+- **BIOSTAT 905**: Linear Models and Inference, 2023 Spring, Duke University.
+- **Linear Regression**: 2021 Fall, Renmin University of China.
+
+
+# Honors and Awards
 - 2024 NeurIPS Top Reviewer 
 - 2024 NeurIPS Travel Award
 - 2021 National Scholarship
@@ -166,8 +173,3 @@ Hi! I am Zhishuai Liu, a forth-year PhD candidate in Biostatistics at Duke Unive
 - Conference reviewer: NeurIPS (2023-2025), AISTATS (2024-2025), ICML (2024-2025), AAAI (2024-2025), ICLR 2024, UAI 2024
 
 
-# Teaching Experience
-- **BIOSTAT 718**: Analysis of Correlated and Longitudinal Data, 2024 Spring, Duke University.
-- **BIOSTAT 825**: Foundation of Reinforcement Learning, 2023 Fall, Duke University.
-- **BIOSTAT 905**: Linear Models and Inference, 2023 Spring, Duke University.
-- **Linear Regression**: 2021 Fall, Renmin University of China.
