@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhishuai Liu"
-description              : 
+description              : "I am a forth-year PhD candidate at Duke Biostats."
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhishuai Liu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "I am a forth-year PhD candidate at Duke Biostats."
+  bio              : Duke University
   location         : "Durham, NC, USA"
   employer         :
   pubmed           : 
