@@ -16,8 +16,11 @@ main:
     url: "/#-talks"
 
 
-  - title: "Teaching/Student Mentor"
-    url: "/#student-mentor"
+  - title: "Student Mentoring"
+    url: "/#student-mentoring"
 
   - title: "Service"
     url: "/#service"
+
+  - title: "Teaching"
+    url: "/#teaching-experience"
