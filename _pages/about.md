@@ -19,8 +19,7 @@ redirect_from:
 
 
 # 👤 About Me
-Hi! I am Zhishuai Liu, a forth-year PhD candidate in Biostatistics at Duke University, advised by Prof. [Pan Xu](https://panxulab.github.io/).
-
+Hi! I am Zhishuai Liu, a forth-year PhD candidate in Biostatistics at Duke University, advised by Prof. [Pan Xu](https://panxulab.github.io/). My 
 
 
 
@@ -144,11 +143,16 @@ Hi! I am Zhishuai Liu, a forth-year PhD candidate in Biostatistics at Duke Unive
 
 # 💬 Talks
 - *2025.11*: The 39th Annual Conference on Neural Information Processing Systems, Poster.
-- *2025.8*: 2025 Princeton Machine Learning Summer School, Poster.
-- *2025.7*:  The Forty-Second International Conference on Machine Learning, Poster.
+- *2025.08*: 2025 Princeton Machine Learning Summer School, Poster.
+- *2025.07*:  The Forty-Second International Conference on Machine Learning, Poster.
 - *2024.12*: The 38th Annual Conference on Neural Information Processing Systems, Poster.
 - *2024.11*: Conference in Honor of Dr. Michael Kosorok, Poster.
-- *2024.2*: Duke OBGE PhD Recruitment Visit Poster Session, Poster.
+- *2024.02*: Duke OBGE PhD Recruitment Visit Poster Session, Poster.
+
+
+# Student Mentor
+- Cheng Tang: previous undergraduate student at Tsinghua University, now phd candidate at University of Illinois Urbana-Champaign. Our [work](https://arxiv.org/pdf/2411.18612?) received the Dean’s Award—the highest academic honor awarded by Zhili College at Tsinghua University.
+- Yiting He: Undergraduate student at University of Science and Technology of China (USTC). Our [work](https://openreview.net/pdf?id=pJdMOKqdSV) reveived the Outstanding Graduation Thesis awarded by USTC.
 
 
 # 🎖 Honors and Awards
@@ -158,5 +162,12 @@ Hi! I am Zhishuai Liu, a forth-year PhD candidate in Biostatistics at Duke Unive
 - 2019 Provincial Outstanding Graduation Thesis
 - 2018 Mathematical Contest In Modeling (MCM), Meritorious Winner
 
+# Service
+- Conference reviewer: NeurIPS (2023-2025), AISTATS (2024-2025), ICML (2024-2025), AAAI (2024-2025), ICLR 2024, UAI 2024
 
 
+# Teaching Experience
+- **BIOSTAT 718**: Analysis of Correlated and Longitudinal Data, 2024 Spring, Duke University.
+- **BIOSTAT 825**: Foundation of Reinforcement Learning, 2023 Fall, Duke University.
+- **BIOSTAT 905**: Linear Models and Inference, 2023 Spring, Duke University.
+- **Linear Regression**: 2021 Fall, Renmin University of China.
