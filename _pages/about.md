@@ -151,8 +151,8 @@ Hi! I am Zhishuai Liu, a forth-year PhD candidate in Biostatistics at Duke Unive
 
 
 # Student Mentoring
-- Cheng Tang: previous undergraduate student at Tsinghua University, now phd candidate at University of Illinois Urbana-Champaign. Our [work](https://arxiv.org/pdf/2411.18612?) received the Dean’s Award—the highest academic honor awarded by Zhili College at Tsinghua University.
-- Yiting He: Undergraduate student at University of Science and Technology of China (USTC). Our [work](https://openreview.net/pdf?id=pJdMOKqdSV) reveived the Outstanding Graduation Thesis awarded by USTC.
+- Cheng Tang: Previous undergraduate student at Tsinghua University, now phd candidate at University of Illinois Urbana-Champaign. Our [work](https://arxiv.org/pdf/2411.18612?) received the Dean’s Award—the highest academic honor awarded by Zhili College at Tsinghua University.
+- Yiting He: Undergraduate student at University of Science and Technology of China (USTC). Our [work](https://openreview.net/pdf?id=pJdMOKqdSV) received the Outstanding Graduation Thesis awarded by USTC.
 
 
 # Teaching Experience
