@@ -13,14 +13,14 @@ main:
     url: "/#-honors-and-awards"
 
   - title: "Talks"
-    url: "/#-talks"
-
+    url: "/#talks"
 
   - title: "Student Mentoring"
     url: "/#student-mentoring"
+    
+  - title: "Teaching"
+    url: "/#teaching-experience"
 
   - title: "Service"
     url: "/#service"
 
-  - title: "Teaching"
-    url: "/#teaching-experience"
