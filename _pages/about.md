@@ -19,7 +19,7 @@ redirect_from:
 
 
 # 👤 About Me
-Hi! I am Zhishuai Liu, a forth-year PhD candidate in Biostatistics at Duke University, advised by [**Prof. Pan Xu**](https://panxulab.github.io/).
+Hi! I am Zhishuai Liu, a forth-year PhD candidate in Biostatistics at Duke University, advised by [Prof. Pan Xu](https://panxulab.github.io/).
 
 
 
