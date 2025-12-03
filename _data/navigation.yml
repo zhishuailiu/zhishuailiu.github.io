@@ -9,9 +9,6 @@ main:
   - title: "Publications"
     url: "/#publications"
 
-  - title: "Honors and Awards"
-    url: "/#honors-and-awards"
-
   - title: "Talks"
     url: "/#talks"
 
@@ -20,7 +17,4 @@ main:
     
   - title: "Teaching"
     url: "/#teaching-experience"
-
-  - title: "Service"
-    url: "/#service"
 
