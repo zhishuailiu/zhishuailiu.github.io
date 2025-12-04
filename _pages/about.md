@@ -24,7 +24,7 @@ Hi! I am Zhishuai Liu, a forth-year PhD candidate in Biostatistics at Duke Unive
 
 
 # 🔥 News
-- *2025.12*: I am presenting my poster at NeurIPS 2025 on Thu, Dec 4, at Exhibit Hall C,D,E #3317. Welcome to stop by if you are interested in robust RL!
+- *2025.12*: I am presenting my [poster](https://neurips.cc/virtual/2025/loc/san-diego/poster/118986) at NeurIPS 2025 on Thu, Dec 4, at Exhibit Hall C,D,E #3317. Welcome to stop by if you are interested in robust RL!
 - *2025.09*: Our paper *Linear Mixture Distributionally Robust Markov Decision Processes* is accepted to NeurIPS 2025!
 - *2025.08*: Attended Princeton 2025 Machine Learning Summer School!
 - *2025.08*: Our paper *An Interactive Framework for Generating Clinical Data with Human Feedback* is accepted to IEEE BHI 2025!
