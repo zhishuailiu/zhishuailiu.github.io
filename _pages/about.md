@@ -19,19 +19,20 @@ redirect_from:
 
 
 # About Me
-Hi! I am Zhishuai Liu, a forth-year PhD candidate in Biostatistics at Duke University, advised by Prof. [Pan Xu](https://panxulab.github.io/). My research focuses on Reinforcement Learning theory and applications, specifically on three topics: Robust Reinforcement Learning, Reinforcement Learning via Supervised Learning and Reinforcement Learning for Healthcare. My aim is to build computationlly efficient reinforcement learning algorithms with grounded theoretical guarantees. 
+Hi! I am Zhishuai Liu, a forth-year PhD candidate in Biostatistics at Duke University, advised by Prof. [Pan Xu](https://panxulab.github.io/). My research focuses on **Reinforcement Learning** theory and applications, with a particular focus on **Robust Reinforcement Learning**, **Reinforcement Learning via Supervised Learning** and **Reinforcement Learning for Healthcare**. My aim is to build **theoretically grounded Reinforcement Learning algorithms that scale efficiently**. I am currently seeking an RL-related research internship. It is exciting to see how deep RL algorithms—built upon our theoretical framework—are driving progress in real-world applications such as **LLM fine-tuning**, **robotics**, and beyond.
 
 
 
 # 🔥 News
-- *2025.9*: Our paper *Linear Mixture Distributionally Robust Markov Decision Processes* is accepted to NeurIPS 2025!
-- *2025.8*: Attended Princeton 2025 Machine Learning Summer School!
-- *2025.8*: Our paper *An Interactive Framework for Generating Clinical Data with Human Feedback* is accepted to IEEE BHI 2025!
-- *2025.5*: Our paper *Censored C-Learning for Dynamic Treatment Regime in Colorectal Cancer Study* is accepted to Annals of Applied Statistics!
-- *2025.5*: Our paper *Sample Complexity of Distributionally Robust Oﬀ-Dynamics Reinforcement Learning with Online Interaction* is accepted to ICML 2025!
-- *2025.5*: Our paper *Robust Oﬄine Reinforcement Learning with Linearly Structured f-Divergence Regularization* is accepted to ICML 2025!
-- *2024.8*: Our paper *Minimax Optimal and Computationally Eﬃcient Algorithms for Distributionally Robust Oﬄine Reinforcement Learning* is accepted to NeurIPS 2024!
-- *2024.1*: Our paper *Distributionally robust off-dynamics reinforcement learning: Provable efficiency with linear function approximation* is accepted to AISTATS 2024!
+- *2025.12*: I am presenting my poster at NeurIPS 2025 on Thu, Dec 4, at Exhibit Hall C,D,E #3317. Welcome to stop by if you are interested in robust RL!
+- *2025.09*: Our paper *Linear Mixture Distributionally Robust Markov Decision Processes* is accepted to NeurIPS 2025!
+- *2025.08*: Attended Princeton 2025 Machine Learning Summer School!
+- *2025.08*: Our paper *An Interactive Framework for Generating Clinical Data with Human Feedback* is accepted to IEEE BHI 2025!
+- *2025.05*: Our paper *Censored C-Learning for Dynamic Treatment Regime in Colorectal Cancer Study* is accepted to Annals of Applied Statistics!
+- *2025.05*: Our paper *Sample Complexity of Distributionally Robust Oﬀ-Dynamics Reinforcement Learning with Online Interaction* is accepted to ICML 2025!
+- *2025.05*: Our paper *Robust Oﬄine Reinforcement Learning with Linearly Structured f-Divergence Regularization* is accepted to ICML 2025!
+- *2024.08*: Our paper *Minimax Optimal and Computationally Eﬃcient Algorithms for Distributionally Robust Oﬄine Reinforcement Learning* is accepted to NeurIPS 2024!
+- *2024.01*: Our paper *Distributionally robust off-dynamics reinforcement learning: Provable efficiency with linear function approximation* is accepted to AISTATS 2024!
 
 # Publications 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div> -->
