@@ -19,7 +19,7 @@ redirect_from:
 
 
 # About Me
-Hi! I am Zhishuai Liu, a forth-year PhD candidate in Biostatistics at Duke University, advised by Prof. [Pan Xu](https://panxulab.github.io/). My research focuses on **Reinforcement Learning** theory and applications, with a particular focus on **Robust Reinforcement Learning**, **Reinforcement Learning via Supervised Learning** and **Reinforcement Learning for Healthcare**. My aim is to build **theoretically grounded Reinforcement Learning algorithms that scale efficiently**. I am currently seeking an RL-related research internship. It is exciting to see how deep RL algorithms—built upon our theoretical framework—are driving progress in real-world applications such as **LLM RL fine-tuning**, **robotics**, and beyond.
+Hi! I am Zhishuai Liu, a forth-year PhD candidate in Biostatistics at Duke University, advised by Prof. [Pan Xu](https://panxulab.github.io/). My research focuses on **Reinforcement Learning** theory and applications, with a particular focus on **Robust Reinforcement Learning**, **Reinforcement Learning via Supervised Learning** and **Reinforcement Learning for Healthcare**. My aim is to build **theoretically grounded Reinforcement Learning algorithms that scale efficiently**. I am currently seeking an RL-related research internship. It is exciting to see how deep RL algorithms—**built upon our theoretical framework**—are driving progress in real-world applications such as **LLM RL fine-tuning**, **robotics**, and beyond.
 
 
 
