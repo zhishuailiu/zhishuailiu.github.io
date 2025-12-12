@@ -143,10 +143,11 @@ Hi! I am Zhishuai Liu, a forth-year PhD candidate in Biostatistics at Duke Unive
   arXiv preprint arXiv:2310.15976
 
 # Talks
+- *2025.12*: Duke RL Reading Group: On Return Conditioned Supervised Learning for Reinforcement Learning
 - *2025.12*: ML×OR Workshop: Mathematical Foundations and Operational Integration of Machine Learning for Uncertainty-Aware Decision-Making, Poster
 - *2025.11*: The 39th Annual Conference on Neural Information Processing Systems, Poster.
 - *2025.08*: 2025 Princeton Machine Learning Summer School, Poster.
-- *2025.07*:  The Forty-Second International Conference on Machine Learning, Poster.
+- *2025.07*: The Forty-Second International Conference on Machine Learning, Poster.
 - *2024.12*: The 38th Annual Conference on Neural Information Processing Systems, Poster.
 - *2024.11*: Conference in Honor of Dr. Michael Kosorok, Poster.
 - *2024.02*: Duke OBGE PhD Recruitment Visit Poster Session, Poster.
@@ -173,5 +174,5 @@ Hi! I am Zhishuai Liu, a forth-year PhD candidate in Biostatistics at Duke Unive
 
 # Service
 - Conference reviewer: NeurIPS (2023-2025), AISTATS (2024-2025), ICML (2024-2025), AAAI (2024-2025), ICLR 2024, UAI 2024
-
+- Co-organizer of the Duke RL Reading Group (lead by Prof. [Ron Parr](https://users.cs.duke.edu/~parr/))
 
