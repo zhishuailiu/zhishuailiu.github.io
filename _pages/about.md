@@ -24,6 +24,7 @@ Hi! I am Zhishuai Liu, a forth-year PhD candidate in Biostatistics at Duke Unive
 
 
 # 🔥 News
+- *2026.01*: Our paper *[Return Augmented Decision Transformer for Oﬀ-Dynamics Reinforcement Learning](https://arxiv.org/pdf/2410.23450?)* is accepted to TMLR with minor revision!
 - *2025.12*: I am presenting my [poster](https://neurips.cc/virtual/2025/loc/san-diego/poster/118986) at NeurIPS 2025 on Thu, Dec 4, at Exhibit Hall C,D,E #3317. Welcome to stop by if you are interested in robust RL!
 - *2025.09*: Our paper *Linear Mixture Distributionally Robust Markov Decision Processes* is accepted to NeurIPS 2025!
 - *2025.08*: Attended Princeton 2025 Machine Learning Summer School!
@@ -78,6 +79,11 @@ Hi! I am Zhishuai Liu, a forth-year PhD candidate in Biostatistics at Duke Unive
   
 
 **Journal Publications**
+
+-[Return Augmented Decision Transformer for Oﬀ-Dynamics Reinforcement Learning](https://arxiv.org/pdf/2410.23450?)
+ <p>Ruhan Wang<sup>*</sup>, Yu Yang<sup>*</sup>, <b>Zhishuai Liu</b>, Dongruo Zhou, Pan Xu</p>
+
+   Transactions on Machine Learning Research
 
 - [Censored C-Learning for Dynamic Treatment Regime in Colorectal Cancer Study](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-19/issue-2/Censored-C-learning-for-dynamic-treatment-regime-in-colorectal-cancer/10.1214/24-AOAS1984.short)
 
