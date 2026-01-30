@@ -80,7 +80,8 @@ Hi! I am Zhishuai Liu, a forth-year PhD candidate in Biostatistics at Duke Unive
 
 **Journal Publications**
 
--[Return Augmented Decision Transformer for Oﬀ-Dynamics Reinforcement Learning](https://arxiv.org/pdf/2410.23450?)
+- [Return Augmented Decision Transformer for Oﬀ-Dynamics Reinforcement Learning](https://arxiv.org/pdf/2410.23450?)
+  
  <p>Ruhan Wang<sup>*</sup>, Yu Yang<sup>*</sup>, <b>Zhishuai Liu</b>, Dongruo Zhou, Pan Xu</p>
 
    Transactions on Machine Learning Research
