@@ -82,9 +82,9 @@ Hi! I am Zhishuai Liu, a forth-year PhD candidate in Biostatistics at Duke Unive
 
 - [Return Augmented Decision Transformer for Oﬀ-Dynamics Reinforcement Learning](https://arxiv.org/pdf/2410.23450?)
   
- <p>Ruhan Wang<sup>*</sup>, Yu Yang<sup>*</sup>, <b>Zhishuai Liu</b>, Dongruo Zhou, Pan Xu</p>
+  <p>Ruhan Wang<sup>*</sup>, Yu Yang<sup>*</sup>, <b>Zhishuai Liu</b>, Dongruo Zhou, Pan Xu</p>
 
-   Transactions on Machine Learning Research
+  Transactions on Machine Learning Research
 
 - [Censored C-Learning for Dynamic Treatment Regime in Colorectal Cancer Study](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-19/issue-2/Censored-C-learning-for-dynamic-treatment-regime-in-colorectal-cancer/10.1214/24-AOAS1984.short)
 
