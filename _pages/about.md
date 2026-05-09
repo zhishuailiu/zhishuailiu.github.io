@@ -24,6 +24,10 @@ Hi! I am Zhishuai Liu, a forth-year PhD candidate in Biostatistics at Duke Unive
 
 
 # 🔥 News
+- *2026.05* I am joining Amazon as an Applied Scientist intern. I will work on RL for LLM post-training. Look forward to any opportunity to connect with anyone interested in RL, LLMs and research in general!
+- *2026.05* Our paper *[Near-Optimal Reinforcement Learning for Linear Distributionally Robust Markov Decision Processes](https://openreview.net/pdf?id=BibmlB0nQR)* is accepted to RLC 2026!
+- *2026.04*: Our paper *[Clipped Q-Learning: Your Value Clipping Is Secretly A Robust Operator](https://openreview.net/forum?id=B7y6S08fgc)* is accepted to ICML 2026!
+- *2026.04*: Our paper *[Doubly Regularized Markov Decision Processes for Robust Reinforcement Learning](https://openreview.net/forum?id=eeoU8iz7w1)* is accepted to ICML 2026!
 - *2026.01*: Our paper *[Return Augmented Decision Transformer for Oﬀ-Dynamics Reinforcement Learning](https://arxiv.org/pdf/2410.23450?)* is accepted to TMLR with minor revision!
 - *2025.12*: I am presenting my [poster](https://neurips.cc/virtual/2025/loc/san-diego/poster/118986) at NeurIPS 2025 on Thu, Dec 4, at Exhibit Hall C,D,E #3317. Welcome to stop by if you are interested in robust RL!
 - *2025.09*: Our paper *Linear Mixture Distributionally Robust Markov Decision Processes* is accepted to NeurIPS 2025!
@@ -39,11 +43,30 @@ Hi! I am Zhishuai Liu, a forth-year PhD candidate in Biostatistics at Duke Unive
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div> -->
 <!-- <div class='paper-box-text' markdown="1"> -->
 **Conference Publications**
+
+- [Near-Optimal Reinforcement Learning for Linear Distributionally Robust Markov Decision Processes](https://openreview.net/pdf?id=BibmlB0nQR)
+
+  <p><b>Zhishuai Liu</b><sup>*</sup>, <b>Weixin Wang<sup>*</sup></b>, Pan Xu</p>
+
+  The Third Reinforcement Learning Conference (RLC 2026) 
+
+- [Clipped Q-Learning: Your Value Clipping Is Secretly A Robust Operator](https://openreview.net/forum?id=B7y6S08fgc)
+  
+   <p><b>Zhishuai Liu</b>,  Pan Xu</p>
+   
+  The 43rd International Conference on Machine Learning (ICML 2026)
+
+- [Doubly Regularized Markov Decision Processes for Robust Reinforcement Learning](https://openreview.net/forum?id=eeoU8iz7w1)
+  
+   <p>Yiting He<sup>*</sup>,  <b>Zhishuai Liu</b><sup>*</sup>, Pan Xu</p>
+
+   The 43rd International Conference on Machine Learning (ICML 2026)
+
 - [Linear Mixture Distributionally Robust Markov Decision Processes](https://arxiv.org/pdf/2505.18044)
 
    <p><b>Zhishuai Liu</b>,  Pan Xu</p>
 
-   The Thirty-Ninth Annual Conference on Neural Information Processing Systems.
+   The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025)
 
 - [An Interactive Framework for Generating Clinical Data with Human Feedback](https://openreview.net/pdf?id=wi4BYFoEOz)
 
@@ -55,25 +78,25 @@ Hi! I am Zhishuai Liu, a forth-year PhD candidate in Biostatistics at Duke Unive
 
   <p>Yiting He<sup>*</sup>,  <b>Zhishuai Liu</b><sup>*</sup>, Weixin Wang, Pan Xu</p>
   
-  The 42nd International Conference on Machine Learning.
+  The 42nd International Conference on Machine Learning (ICML 2025)
 
 - [Robust Oﬄine Reinforcement Learning with Linearly Structured f-Divergence Regularization](https://arxiv.org/pdf/2411.18612?)
   
   <p>Cheng Tang<sup>*</sup>,  <b>Zhishuai Liu</b><sup>*</sup>, Pan Xu</p>
 
-  The 42nd International Conference on Machine Learning.
+  The 42nd International Conference on Machine Learning (ICML 2025)
 
 - [Minimax Optimal and Computationally Eﬃcient Algorithms for Distributionally Robust Oﬄine Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2024/file/9dcc5038eb565e625c7ebdde0435d958-Paper-Conference.pdf)
 
   <p><b>Zhishuai Liu</b>,  Pan Xu</p>
    
-  The 38th Annual Conference on Neural Information Processing Systems.
+  The 38th Annual Conference on Neural Information Processing Systems (NeurIPS 2024)
 
 - [Distributionally Robust Oﬀ-Dynamics Reinforcement Learning: Provable Eﬃciency with Linear Function Approximation.](https://proceedings.mlr.press/v238/liu24d/liu24d.pdf)
 
   <p><b>Zhishuai Liu</b>,  Pan Xu</p>
 
-  The 28th International Conference on Artificial Intelligence and Statistics.
+  The 28th International Conference on Artificial Intelligence and Statistics (AISTATS 2024)
 
 
   
@@ -124,17 +147,6 @@ Hi! I am Zhishuai Liu, a forth-year PhD candidate in Biostatistics at Duke Unive
 
   NeurIPS 2025 Workshop: Second Workshop on Aligning Reinforcement Learning Experimentalists and Theorists.
 
-- [Near-Optimal Reinforcement Learning for Linear Distributionally Robust Markov Decision Processes](https://openreview.net/pdf?id=BibmlB0nQR)
-
-  <p><b>Zhishuai Liu</b><sup>*</sup>, <b>Weixin Wang<sup>*</sup></b>, Pan Xu</p>
-
-  NeurIPS 2025 Workshop: Reliable ML from Unreliable Data.
-
-- [Return Augmented Decision Transformer for Oﬀ-Dynamics Reinforcement Learning](https://arxiv.org/pdf/2410.23450?)
-
-  <p>Ruhan Wang<sup>*</sup>, Yu Yang<sup>*</sup>, <b>Zhishuai Liu</b>, Dongruo Zhou, Pan Xu</p>
-
-  NeurIPS 2025 Workshop: Reliable ML from Unreliable Data.
 
 **Preprint**
 - [Policy Regularized Distributionally Robust Markov Decision Processes with Linear Function Approximation](https://arxiv.org/pdf/2510.14246?)
@@ -143,11 +155,6 @@ Hi! I am Zhishuai Liu, a forth-year PhD candidate in Biostatistics at Duke Unive
 
   arXiv preprint arXiv:2510.14246.
 
-- [Convergence of Sign-Based Random Reshuﬄing Algorithms for Nonconvex Optimization](https://arxiv.org/pdf/2310.15976)
-
-  <p>Zhen Qin<sup>*</sup>, <b>Zhishuai Liu</b><sup>*</sup>  Pan Xu</p>
-
-  arXiv preprint arXiv:2310.15976
 
 # Talks
 - *2025.12*: Duke RL Reading Group: On Return Conditioned Supervised Learning for Reinforcement Learning
@@ -164,6 +171,7 @@ Hi! I am Zhishuai Liu, a forth-year PhD candidate in Biostatistics at Duke Unive
 - Cheng Tang: Previous undergraduate student at Tsinghua University, now phd candidate at University of Illinois Urbana-Champaign. Our [work](https://arxiv.org/pdf/2411.18612?) received the Dean’s Award—the highest academic honor awarded by Zhili College at Tsinghua University.
 - Yiting He: Previous undergraduate student at University of Science and Technology of China (USTC), now phd candidate at Georgia Institute of Technology. Our [work](https://openreview.net/pdf?id=pJdMOKqdSV) received the Outstanding Graduation Thesis awarded by USTC.
 - [Jingwen Gu](https://jingwengu.github.io/): Undergraduate student at Cornell University.
+- Yuwen Zhang: Previous undergraduate student at Duke Kunshan University, now phd cnadidate at Duke University.
 
 
 # Teaching Experience
@@ -174,6 +182,7 @@ Hi! I am Zhishuai Liu, a forth-year PhD candidate in Biostatistics at Duke Unive
 
 
 # Honors and Awards
+- 2025 Duke Graduate School Travel Award
 - 2024 NeurIPS Top Reviewer 
 - 2024 NeurIPS Travel Award
 - 2021 National Scholarship
@@ -181,6 +190,6 @@ Hi! I am Zhishuai Liu, a forth-year PhD candidate in Biostatistics at Duke Unive
 - 2018 Mathematical Contest In Modeling (MCM), Meritorious Winner
 
 # Service
-- Conference reviewer: NeurIPS (2023-2025), AISTATS (2024-2025), ICML (2024-2025), AAAI (2024-2025), ICLR 2024, UAI 2024
+- Conference reviewer: NeurIPS (2023-2025), AISTATS (2024-2025), ICML (2024-2025), AAAI (2024-2025), ICLR 2024, UAI 2024, RLC 2026
 - Co-organizer of the Duke RL Reading Group (lead by Prof. [Ron Parr](https://users.cs.duke.edu/~parr/))
 
