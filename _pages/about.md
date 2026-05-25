@@ -19,12 +19,12 @@ redirect_from:
 
 
 # About Me
-Hi! I am Zhishuai Liu, a forth-year PhD candidate in Biostatistics at Duke University, advised by Prof. [Pan Xu](https://panxulab.github.io/). My research focuses on **Reinforcement Learning** theory and applications, with a particular focus on **Robust Reinforcement Learning**, **Reinforcement Learning via Supervised Learning** and **Reinforcement Learning for Healthcare**. My aim is to build **theoretically grounded Reinforcement Learning algorithms that scale efficiently**. I am currently seeking an RL-related research internship. It is exciting to see how deep RL algorithms—**built upon our theoretical framework**—are driving progress in real-world applications such as **LLM RL fine-tuning**, **robotics**, and beyond.
+I am a forth-year PhD candidate in Biostatistics at Duke University, advised by Prof. [Pan Xu](https://panxulab.github.io/). My research focuses on **Reinforcement Learning** theory and applications, with a particular focus on **Robust Reinforcement Learning**, **Reinforcement Learning via Supervised Learning** and **Reinforcement Learning for Healthcare**. My aim is to build **theoretically grounded Reinforcement Learning algorithms that scale efficiently**. I am currently seeking an RL-related research internship. It is exciting to see how deep RL algorithms—**built upon our theoretical framework**—are driving progress in real-world applications such as **LLM RL fine-tuning**, **robotics**, and beyond.
 
 
 
 # 🔥 News
-- *2026.05* I am joining Amazon as an Applied Scientist intern. I will work on RL for LLM post-training. Look forward to any opportunity to connect with anyone interested in RL, LLMs and research in general!
+- *2026.05* I am joining Amazon as an Applied Scientist intern. I will work on RL for LLM post-training. Look forward to any opportunity to connect with anyone interested in RL, LLMs and research in general.
 - *2026.05* Our paper *[Near-Optimal Reinforcement Learning for Linear Distributionally Robust Markov Decision Processes](https://openreview.net/pdf?id=BibmlB0nQR)* is accepted to RLC 2026!
 - *2026.04*: Our paper *[Clipped Q-Learning: Your Value Clipping Is Secretly A Robust Operator](https://openreview.net/forum?id=B7y6S08fgc)* is accepted to ICML 2026!
 - *2026.04*: Our paper *[Doubly Regularized Markov Decision Processes for Robust Reinforcement Learning](https://openreview.net/forum?id=eeoU8iz7w1)* is accepted to ICML 2026!
